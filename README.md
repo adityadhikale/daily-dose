@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Visit Website](https://your-live-site-url.com)
+🔗 [Visit Website](https://getdailydose.netlify.app/)
 
 
 ---
